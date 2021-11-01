@@ -1,0 +1,10 @@
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.resetBtn {
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  width: 179px;
+}

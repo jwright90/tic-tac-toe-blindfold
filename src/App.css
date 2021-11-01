@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+main {
+  text-align: center;
+  vertical-align: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
